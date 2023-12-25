@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+}
+header{
+    background-color: orange;
+    height: 50px;
+    padding-top: 15px;
+    text-align: center;
+    width: 960px;
+    margin-bottom: 50px;
+}
+.wrapper{
+    width: 1100px;
+    margin: 30px auto;
+}
+nav a{
+    color: white;
+    text-decoration: none;
+    padding-left: 70px;
+    font-size: 20px;
+}
+.container a{
+    color: orange;
+}
+.mark5{
+    list-style-image: url("images/li.gif");
+}
+.container {
+    display: flex;
+}
+main{
+    width: 600px;
+    text-align: justify;
+}
+.left{
+    width: 264px;
+    margin-right: 100px;
+    text-align: justify;
+    padding-left: 10px;
+}
+footer{
+    text-align: center;
+    border-top: 1px solid black ;
+    margin-left: 410px;
+    width: 960px;
+}
+.p1{
+    margin-left: 510px;
+    padding: 10px 10px;
+    text-align: right;
+    border: 1px solid rgba(31, 29, 26, 0.37) ;
+}
+.h2{
+    padding-left: 30px;
+}
+.herf{
+    color: orange;
+}
